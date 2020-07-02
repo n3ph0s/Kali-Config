@@ -1,0 +1,29 @@
+# The following is installed packages based on product and/or location.
+
+# Firefox Plugins:
+
+foxy-proxy
+
+# /opt
+
+Bloodhound  # https://github.com/BloodHoundAD/BloodHound
+BurpSuite Pro # Paid software - https://portswigger.net/
+Covenant # https://github.com/cobbr/Covenant
+crackmapexec # https://github.com/byt3bl33d3r/CrackMapExec
+dirsearch # https://github.com/maurosoria/dirsearch
+ghidra # https://ghidra-sre.org/
+Impacket # https://github.com/SecureAuthCorp/impacket
+linux-exploit-suggester # https://github.com/mzet-/linux-exploit-suggester
+magento # https://github.com/steverobbins/magescan
+Python-pty-shells # https://github.com/infodox/python-pty-shells
+Sherlock # https://github.com/rasta-mouse/Sherlock
+Sysinternals # https://docs.microsoft.com/en-us/sysinternals/
+Unicorn # https://github.com/trustedsec/unicorn
+Wesng # https://github.com/bitsadmin/wesng
+
+# The following are miscellaneous/standalone packages that I use for various activities
+
+PEASS - Privilege Escalation Awesome Scripts SUITE  # https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+LinEnum.sh # https://github.com/rebootuser/LinEnum
+linuxprivchecker.py # https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py
+suid3num.py  # https://github.com/Anon-Exploiter/SUID3NUM
